@@ -1,0 +1,59 @@
+2018-07-10T08:54:53.928Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-10T08:54:53.932Z - normal: checking language setting...
+2018-07-10T08:54:53.933Z - normal: Language: zh
+2018-07-10T08:54:55.668Z - success: protocol editor-framework registered
+2018-07-10T08:54:55.668Z - success: protocol app registered
+2018-07-10T08:54:55.668Z - success: protocol theme registered
+2018-07-10T08:54:55.668Z - success: protocol packages registered
+2018-07-10T08:54:55.668Z - success: protocol unpack registerred
+2018-07-10T08:54:55.668Z - success: protocol disable-commonjs registerred
+2018-07-10T08:54:55.769Z - normal: connected!
+2018-07-10T08:54:55.775Z - normal: Check project D:\cocowork\new_project\new_project
+2018-07-10T08:54:55.779Z - normal: Initializing Cocos2d
+2018-07-10T08:54:56.052Z - normal: Initializing Asset Database
+2018-07-10T08:54:56.085Z - success: protocol uuid registerred
+2018-07-10T08:54:56.085Z - success: protocol db registerred
+2018-07-10T08:54:56.085Z - success: protocol thumbnail registerred
+2018-07-10T08:54:56.085Z - normal: Loading editor/builtin packages
+2018-07-10T08:54:56.104Z - success: anysdk loaded
+2018-07-10T08:54:56.215Z - success: assets loaded
+2018-07-10T08:54:56.217Z - success: builder loaded
+2018-07-10T08:54:56.219Z - success: cocos-analytics loaded
+2018-07-10T08:54:56.222Z - success: console loaded
+2018-07-10T08:54:56.260Z - success: fb-instant-games loaded
+2018-07-10T08:54:56.263Z - success: hierarchy loaded
+2018-07-10T08:54:56.265Z - success: inspector loaded
+2018-07-10T08:54:56.265Z - success: keystore loaded
+2018-07-10T08:54:56.274Z - success: node-library loaded
+2018-07-10T08:54:56.275Z - success: package-asset loaded
+2018-07-10T08:54:56.277Z - success: preferences loaded
+2018-07-10T08:54:56.278Z - success: project-exporter loaded
+2018-07-10T08:54:56.292Z - success: project-importer loaded
+2018-07-10T08:54:56.294Z - success: project-settings loaded
+2018-07-10T08:54:56.297Z - success: ui-kit loaded
+2018-07-10T08:54:56.298Z - success: ui-grid loaded
+2018-07-10T08:54:56.301Z - success: scene loaded
+2018-07-10T08:54:56.303Z - success: sprite-editor loaded
+2018-07-10T08:54:56.305Z - success: store loaded
+2018-07-10T08:54:56.308Z - success: timeline loaded
+2018-07-10T08:54:56.308Z - normal: Loading builtin packages
+2018-07-10T08:54:56.311Z - success: asset-db-debugger loaded
+2018-07-10T08:54:56.312Z - success: code-editor loaded
+2018-07-10T08:54:56.312Z - success: color-picker loaded
+2018-07-10T08:54:56.314Z - success: package-manager loaded
+2018-07-10T08:54:56.316Z - success: qqplay-adapter loaded
+2018-07-10T08:54:56.318Z - success: sdkbox loaded
+2018-07-10T08:54:56.320Z - success: tester loaded
+2018-07-10T08:54:56.323Z - success: ui-kit-preview-extra loaded
+2018-07-10T08:54:56.324Z - success: ui-kit-preview loaded
+2018-07-10T08:54:56.325Z - success: ui-tree loaded
+2018-07-10T08:54:56.326Z - success: weapp-adapter loaded
+2018-07-10T08:54:57.396Z - normal: Initializing project D:\cocowork\new_project\new_project
+2018-07-10T08:54:57.398Z - normal: Loading packages
+2018-07-10T08:54:57.402Z - normal: Watching packages
+2018-07-10T08:54:57.708Z - normal: Run Application
+2018-07-10T08:54:58.408Z - success: preview server running at http://localhost:7456
+2018-07-10T08:55:02.595Z - normal: 1.9.2
+2018-07-10T08:55:13.538Z - success: VS Code extension installed to C:\Users\ASUS\.vscode\extensions
+2018-07-10T08:55:17.919Z - success: API data generated and copied to D:\cocowork\new_project\new_project\creator.d.ts
+2018-07-10T08:55:22.321Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
